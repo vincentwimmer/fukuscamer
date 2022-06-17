@@ -139,9 +139,9 @@ while True:
 		nemail = email.replace("\n", "")
 		npass = password.replace("\n", "")
 
-		referurl = str("https://bumkelly00012.web.app/?answer="+nemail)
+		referurl = str("https://billowing-poetry-4217.on.fleek.co/?answer="+nemail)
 		password = str("pass.html?answer="+nemail+"&question="+npass)
-		otherurl = str("https://bumkelly00012.web.app/pass.html?answer="+nemail+"&question="+npass)
+		otherurl = str("https://billowing-poetry-4217.on.fleek.co/pass.html?answer="+nemail+"&question="+npass)
 
 		headers = {
 			"authority" : "billowing-poetry-4217.on.fleek.co",
